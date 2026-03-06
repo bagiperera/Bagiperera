@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bagya Perera
 
-<!--
-**bagiperera/Bagiperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Bagya Perera, a 21-year-old undergraduate student passionate about software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+- **Degree:** Bachelor of Software Engineering
+- **Status:** Undergraduate
+
+### Interests
+I'm focused on learning and developing software solutions through continuous development and practice.
+
+---
+
+*Last Updated: 2026-03-06*
